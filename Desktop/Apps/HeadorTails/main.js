@@ -17,5 +17,4 @@ function getYourResult(myChoice, userChoice) {
   if (userChoice == "Heads") {
     return getYourChoice();
   }
-  console.log(getYourResult);
 }
