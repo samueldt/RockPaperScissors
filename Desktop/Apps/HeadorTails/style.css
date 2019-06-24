@@ -1,0 +1,36 @@
+body {
+  background: blue;
+}
+
+.heading {
+  text-align: center;
+  color: azure;
+  box-sizing: border-box;
+  background: yellow;
+  color: black;
+}
+
+.container {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.btn {
+  font-size: 60px;
+  margin: 20px;
+  padding: 10px 15px;
+  border-radius: 20px;
+  transition: 0.3s;
+  color: yellow;
+  background: black;
+}
+
+.btn:hover {
+  color: white;
+}
+
+.result {
+  text-align: center;
+  color: black;
+  text-decoration-color: yellow;
+}
